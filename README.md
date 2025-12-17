@@ -1,4 +1,4 @@
-# Active Directory Labs
+# Active Directory Lab Collection
 
 ## Objective
 
