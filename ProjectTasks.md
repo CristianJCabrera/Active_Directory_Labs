@@ -1,10 +1,12 @@
-I. Create Organizational Units (OUs)
+### I. Create Organizational Units (OUs)
+
 Create the following top-level OUs to represent company regions:
 USA
 Europe
 Asia
 
-II. Create Security Groups 
+### II. Create Security Groups 
+
 Within each regional OU, create the following groups:
 
 User Groups
@@ -24,19 +26,19 @@ Management
 Servers Group
 Servers
 
-III. Create User Accounts
+### III. Create User Accounts
 
 Create 3 user accounts per department in each region.
 Assign users to their appropriate department security group.
 Use a standardized naming convention (firstname_lastname)
 
-IV. Create Computer Accounts
+### IV. Create Computer Accounts
 
 Create 1 computer account per department in each region.
 Move each computer into the correct department OU.
 Add each computer to its corresponding Computers security group.
 
-V. Server Organization
+### V. Server Organization
 
 Create a Servers OU under each regional OU.
 Add at least one server object to each Servers OU.
