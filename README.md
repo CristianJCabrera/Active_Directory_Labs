@@ -30,10 +30,7 @@ Example below.
 
 *Ref 1: Network Diagram*
 -->
-<img width="2559" height="1390" alt="image" src="https://github.com/user-attachments/assets/c66ef12f-3cc8-4314-8fe2-0db41f0ddf79" />
+HIII
 
 
 
-
-<img width="1918" height="1020" alt="Screenshot 2025-12-16 152926" src="https://github.com/user-attachments/assets/9e85b5da-5599-4be5-a3e5-17bf27fbc7bd" />
-<img width="1918" height="1020" alt="Screenshot 2025-12-16 152926" src="https://github.com/user-attachments/assets/9e85b5da-5599-4be5-a3e5-17bf27fbc7bd" />
